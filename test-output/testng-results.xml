@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="124190" started-at="2019-11-09T23:18:48Z" finished-at="2019-11-09T23:20:52Z">
+    <groups>
+    </groups>
+    <test name="TestNG_Formulario" duration-ms="124190" started-at="2019-11-09T23:18:48Z" finished-at="2019-11-09T23:20:52Z">
+      <class name="Test.TestFormulario">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.TestFormulario@1610302]" name="setUp" is-config="true" duration-ms="52295" started-at="2019-11-09T18:18:50Z" finished-at="2019-11-09T18:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RegistrarFormulario(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.TestFormulario@1610302]" name="RegistrarFormulario" duration-ms="60554" started-at="2019-11-09T18:19:51Z" data-provider="getTestData" finished-at="2019-11-09T18:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pamela Mamani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pamelamc.is@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13-Aug-2019]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mujer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Leer Libro]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Centro Lima]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Registro de Prueba 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrarFormulario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test.TestFormulario@1610302]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-09T18:20:52Z" finished-at="2019-11-09T18:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestFormulario -->
+    </test> <!-- TestNG_Formulario -->
+  </suite> <!-- Suite -->
+</testng-results>
